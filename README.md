@@ -1,4 +1,6 @@
 # jash2002.github.io
 Welcome to my github page 
 
-<img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFja2VyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+About Me:
+I am at the Univeristy of Liverpool and I am working as a trainee penetration tester. I am very eager to learn about anything Cyber whether it be recent data breaches or new exploits which have been found in common applications such as Microsoft products.
+
