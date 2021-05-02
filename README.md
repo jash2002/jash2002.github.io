@@ -1,4 +1,4 @@
-# jash2002.github.io
+# Jonathan's Personal Website
 Welcome to my github page 
 
 About Me:
